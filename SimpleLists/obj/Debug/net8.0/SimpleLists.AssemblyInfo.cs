@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimpleLists")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2ccf6ed6a9d4102c2f8de5e4bb305ed277b7094")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimpleLists")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimpleLists")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
