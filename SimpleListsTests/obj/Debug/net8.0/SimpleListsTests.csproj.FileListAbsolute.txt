@@ -103,3 +103,4 @@ C:\Repos\ProgramSimpleListKata\SimpleListsTests\bin\Debug\net8.0\SimpleLists.run
 C:\Repos\ProgramSimpleListKata\SimpleListsTests\bin\Debug\net8.0\SimpleLists.exe
 C:\Repos\ProgramSimpleListKata\SimpleListsTests\bin\Debug\net8.0\SimpleLists.dll
 C:\Repos\ProgramSimpleListKata\SimpleListsTests\bin\Debug\net8.0\SimpleLists.pdb
+C:\Repos\ProgramSimpleListKata\SimpleListsTests\obj\Debug\net8.0\SimpleListsTests.sourcelink.json

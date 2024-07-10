@@ -2,9 +2,9 @@
 using System.Linq.Expressions;
 using SimpleList;
 
-//  Run the tests to visualize program functionality, all implementations work as intended. I won't be doing a console program for it though. 
+//Run the tests to visualize program functionality, all implementations work as intended. I won't be doing a console program for it though. 
 
-
+Console.WriteLine("HelloWorld");
 
 
 

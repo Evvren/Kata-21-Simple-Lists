@@ -12,3 +12,4 @@ C:\Repos\ProgramSimpleListKata\SimpleLists\obj\Debug\net8.0\refint\SimpleLists.d
 C:\Repos\ProgramSimpleListKata\SimpleLists\obj\Debug\net8.0\SimpleLists.pdb
 C:\Repos\ProgramSimpleListKata\SimpleLists\obj\Debug\net8.0\SimpleLists.genruntimeconfig.cache
 C:\Repos\ProgramSimpleListKata\SimpleLists\obj\Debug\net8.0\ref\SimpleLists.dll
+C:\Repos\ProgramSimpleListKata\SimpleLists\obj\Debug\net8.0\SimpleLists.sourcelink.json
