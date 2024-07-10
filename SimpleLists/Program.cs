@@ -2,7 +2,21 @@
 using System.Linq.Expressions;
 using SimpleList;
 
-var service = new SimpleListService();
+//  Run the tests to visualize program functionality, all implementations work as intended. I won't be doing a console program for it though. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*var service = new SimpleListService();
 
         int option;
         int listSelected;
@@ -27,7 +41,7 @@ var service = new SimpleListService();
                 }
         } catch {
         }
-        }
+        }*/
 
 /*
         string input = Console.ReadLine();
