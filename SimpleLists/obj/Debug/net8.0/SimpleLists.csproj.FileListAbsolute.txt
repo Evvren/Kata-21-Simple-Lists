@@ -1,0 +1,14 @@
+C:\Repos\ProgramSimpleListKata\SimpleLists\obj\Debug\net8.0\SimpleLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\ProgramSimpleListKata\SimpleLists\obj\Debug\net8.0\SimpleLists.AssemblyInfoInputs.cache
+C:\Repos\ProgramSimpleListKata\SimpleLists\obj\Debug\net8.0\SimpleLists.AssemblyInfo.cs
+C:\Repos\ProgramSimpleListKata\SimpleLists\obj\Debug\net8.0\SimpleLists.csproj.CoreCompileInputs.cache
+C:\Repos\ProgramSimpleListKata\SimpleLists\bin\Debug\net8.0\SimpleLists.exe
+C:\Repos\ProgramSimpleListKata\SimpleLists\bin\Debug\net8.0\SimpleLists.deps.json
+C:\Repos\ProgramSimpleListKata\SimpleLists\bin\Debug\net8.0\SimpleLists.runtimeconfig.json
+C:\Repos\ProgramSimpleListKata\SimpleLists\bin\Debug\net8.0\SimpleLists.dll
+C:\Repos\ProgramSimpleListKata\SimpleLists\bin\Debug\net8.0\SimpleLists.pdb
+C:\Repos\ProgramSimpleListKata\SimpleLists\obj\Debug\net8.0\SimpleLists.dll
+C:\Repos\ProgramSimpleListKata\SimpleLists\obj\Debug\net8.0\refint\SimpleLists.dll
+C:\Repos\ProgramSimpleListKata\SimpleLists\obj\Debug\net8.0\SimpleLists.pdb
+C:\Repos\ProgramSimpleListKata\SimpleLists\obj\Debug\net8.0\SimpleLists.genruntimeconfig.cache
+C:\Repos\ProgramSimpleListKata\SimpleLists\obj\Debug\net8.0\ref\SimpleLists.dll
